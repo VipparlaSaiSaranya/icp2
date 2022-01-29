@@ -1,7 +1,9 @@
 # icp2
 
 Group No:11
-Name: G Mani Sai (16307996) , V Sai Saranya (16307521)
+
+Name: G Mani Sai (16307996), V Sai Saranya (16307521)
+
 Github link: https://github.com/VipparlaSaiSaranya/icp2
 
 Basically in this ICP, we have created an html file (extension with .html) and named it as index.html 
